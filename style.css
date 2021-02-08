@@ -1,0 +1,16 @@
+main {
+    padding: 30px;
+}
+.search {
+    width: 30%;
+    margin-top: 50px;
+}
+#results, #recipe-info {
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+}
+#recipe-info {
+    width: 50%;
+    padding-left: 50px;
+}
