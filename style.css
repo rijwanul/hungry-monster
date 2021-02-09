@@ -9,6 +9,12 @@ main {
     width: 80%;
     margin: auto;
     margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.result {
+    margin: 20px;
+    width: 18rem;
 }
 #recipe-info {
     width: 50%;
