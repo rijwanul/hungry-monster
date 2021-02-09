@@ -64,6 +64,7 @@ function displayMealDetail(data){
             <img src="${theMealImage}" class="card-img-top img-fluid img-thumbnail" alt="${theMealName}">
             <div class="card-body">
             <h5 class="card-title">${theMealName}</h5>
+            <br><p class="card-text"><b>Ingredients:</b></p>
             ${ul.innerHTML}
             </div>
             </div>
